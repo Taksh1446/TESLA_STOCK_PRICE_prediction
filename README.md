@@ -1,4 +1,4 @@
-# 📈  Tesla Stock Price Prediction Project
+# 📈 Tesla Stock Price Prediction Project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
@@ -198,4 +198,37 @@ Stock_price_prediction.ipynb
 * Data Cleaning
 * Financial Data Analysis
 * Machine Learning
-* Data Vis
+* Data Visualization
+* Python for Data Science
+
+---
+
+# 🌍 Importance of This Project
+
+Stock price prediction systems help:
+
+* Analyze financial market trends
+* Identify potential investment patterns
+* Understand stock market behavior
+* Support data-driven financial decision making
+
+Such systems are widely used in **FinTech, algorithmic trading, and financial analytics**.
+
+---
+
+# 👨‍💻 Author
+
+**Taksh Samirkumar Patel**
+
+Computer Science Engineering Student
+Interested in **Artificial Intelligence | Machine Learning | Data Science**
+
+🔗 LinkedIn
+https://www.linkedin.com/in/taksh-patel-6a6b97325
+
+💻 LeetCode
+https://leetcode.com/u/5EWSbJZA6M/
+
+---
+
+⭐ If you found this project useful, consider giving it a **star on GitHub!**
