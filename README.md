@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction Project
+# 📈  Tesla Stock Price Prediction Project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
